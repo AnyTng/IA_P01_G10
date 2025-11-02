@@ -1,6 +1,6 @@
 
 Resumo do problema:
-Este projeto aborda o escalonamento semanal de aulas para um dataset com três turmas do ensino superior. Cada unidade curricular precisa de duas sessões distribuídas por blocos horários compatíveis com a disponibilidade dos docentes e com a capacidade das salas, físicas ou virtuais. O objetivo é encontrar um horário viável que satisfaça todas as restrições obrigatórias, como ausência de sobreposições, limite diário de aulas e salas dedicadas, reduzindo ao mesmo tempo penalizações associadas a preferências como distribuir sessões por dias distintos ou evitar trocas frequentes de sala.
+Este projeto aborda o agendamento semanal de aulas para um dataset com três turmas do ensino superior. Cada unidade curricular precisa de duas sessões distribuídas por blocos horários compatíveis com a disponibilidade dos docentes e com a capacidade das salas, físicas ou virtuais. O objetivo é encontrar um horário viável que satisfaça todas as restrições obrigatórias, como ausência de sobreposições, limite diário de aulas e salas dedicadas, reduzindo ao mesmo tempo penalizações associadas a preferências como distribuir sessões por dias distintos ou evitar trocas frequentes de sala.
 
 Tecnologias utilizadas:
 Python para executar os algoritmos de satisfação de restrições, Jupyter Notebook (ficheiro Projeto_1_IA.ipynb) para documentação e experimentação e a biblioteca python-constraint, em particular o solver MinConflictsSolver para procura local.
