@@ -21,4 +21,4 @@ Notas para possíveis melhorias:
 Utilizar um algoritmo de backtracking da biblioteca python-constraint rapidamente tornou-se impossível, devido ao tamanho do dataset, demorava horas para encontrar uma única solução. Tivemos de recorrer a um algoritmo de procura local, MinConflictsSolver. Para uma possível melhoria, seria no próximo projeto utilizar as ferramentas OR-Tools da Google, que são mais rápidas e poderá tornar viável o uso de algoritmos de Backtracking.
 
 Repositório:
-Link para o repositório original https://github.com/AnyTng/IA_P01_G10
+Link para o repositório original https://github.com/AnyTng/IA25_P01_G10
