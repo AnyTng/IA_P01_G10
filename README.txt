@@ -8,7 +8,7 @@ Requisitos de ambiente e configuração:
 1) Instale o Python 3.10 ou superior.
 2) Abra o ficheiro Projeto_1_IA.ipynb na interface do Visual Studio Code ou PyCharm e execute as células sequencialmente através de Run All ou Shift+Enter.
 
-Opcionalmente, também pode carregar e executar o ficheiro Projeto_1_IA.ipynb diretamente no Google Colab.
+OPCIONALMENTE, também pode carregar e executar o ficheiro Projeto_1_IA.ipynb diretamente no Google Colab.
 
 Execução e interpretação dos resultados:
 As primeiras células carregam bibliotecas e constroem os domínios das variáveis UCxx_1 e UCxx_2. Na secção Procura da melhor solução, o MinConflictsSolver é executado múltiplas vezes com sementes determinísticas. A melhor solução encontrada, a com menos penalizações, fica armazenada e é apresentada nas secções seguintes. A secção Visualização do horário resultante devolve uma vista do horário por dia e bloco e outra ordenada pelos blocos. Uma penalização igual a 0 indica que todas as restrições duras e preferências suaves foram satisfeitas.
